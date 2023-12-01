@@ -7,8 +7,8 @@ Flask-WTF
 gunicorn
 Werkzeug
 
-click
-colorama
+#click
+#colorama
 dnspython
 email-validator
 idna
