@@ -21,7 +21,7 @@ SQLAlchemy
 typing_extensions
 WTForms
 zipp
-#Minha biblioteca, estou tentando
-#Será que agora vai?
+
+
 
 
